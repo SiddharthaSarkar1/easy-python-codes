@@ -1,0 +1,12 @@
+number = [10,20,30,69,34,79,103,93]
+print(number)
+print(number[0:5:2])
+print(number[::2])
+print(number[::-2])
+print(number[::-1])
+number.sort()
+print(number)
+number.reverse()
+print(number)
+number.append(89)
+print(number)

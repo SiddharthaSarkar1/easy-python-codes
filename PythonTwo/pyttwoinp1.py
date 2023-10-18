@@ -1,0 +1,5 @@
+print("Enter anything you want :")
+var = input()
+var = int(var)
+print(var)
+print(type(var))
